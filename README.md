@@ -8,9 +8,6 @@ A standalone AI voice assistant built on an **ESP32-S3**. Touch a switch, ask a 
                                                     ▼
                                           [OLED shows matching emotion]
 ```
-
-> **Note on filenames:** the project has been renamed to NOVA, but the main sketch file is still named `EvoAssistant.ino` from the previous name. Arduino requires the `.ino` file's name to match its containing folder, so if you rename the file to `NOVA.ino`, rename the project folder to `NOVA` too.
-
 ---
 
 ## Hardware Required
